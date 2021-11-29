@@ -1,2 +1,2 @@
 # RadicalStaking
-Scripts and Standard Operating Procedures for Radix Validator Nodes
+Scripts, utilities, and documentation for Radix validator nodes.
