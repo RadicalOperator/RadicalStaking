@@ -1,2 +1,2 @@
-# RadicalStaking
-Scripts, utilities, and documentation for Radix validator nodes.
+# Grafana Configuration
+Grafana dashboards and configuration instructions for Radix validator nodes.
